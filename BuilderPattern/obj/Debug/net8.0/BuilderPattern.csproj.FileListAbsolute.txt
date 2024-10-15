@@ -1,0 +1,14 @@
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\bin\Debug\net8.0\BuilderPattern.exe
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\bin\Debug\net8.0\BuilderPattern.deps.json
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\bin\Debug\net8.0\BuilderPattern.runtimeconfig.json
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\bin\Debug\net8.0\BuilderPattern.dll
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\bin\Debug\net8.0\BuilderPattern.pdb
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\obj\Debug\net8.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfoInputs.cache
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfo.cs
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\obj\Debug\net8.0\BuilderPattern.csproj.CoreCompileInputs.cache
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\obj\Debug\net8.0\BuilderPattern.dll
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\obj\Debug\net8.0\refint\BuilderPattern.dll
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\obj\Debug\net8.0\BuilderPattern.pdb
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\obj\Debug\net8.0\BuilderPattern.genruntimeconfig.cache
+F:\HCI\3kyrs\1sem\c#\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern.dll
